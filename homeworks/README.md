@@ -1,6 +1,6 @@
 # Deep Neural Network homework assignments 
 
-Each task is described in every detain inside each file corresponding to each task.
+Each task is described in every detain inside each corresponding to it file.
 
 Each task was designed to cover different part of machine learning: 
 
